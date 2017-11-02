@@ -20,11 +20,11 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-     :
+     Branches are helpful when developing new features to test. New branchs are helpful when UAT is completed and moving onto something new. 
 
 How do the diagrams help you visualize the branch structure?
 
-     :
+     The diagram helps in understanding branchs and commit histories. Knowing what is accessible and linked when & how checking out code.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
